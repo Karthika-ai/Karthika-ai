@@ -6,8 +6,6 @@ Data scientist passionate about extracting insights and driving data-based decis
 
 🔭 Currently delving into advanced statistical modeling, machine learning algorithms, and data visualization techniques to unlock the full potential of data. 💪📊
 
-💼 Experience working with diverse datasets, ranging from structured to unstructured data, and applying data preprocessing techniques to ensure accuracy and reliability. 📚🔍
-
 🎯 Skilled in leveraging Python for data manipulation, analysis, and modeling, utilizing popular libraries such as Pandas, NumPy, and Scikit-learn. 🐍🔢
 
 📊 Proficient in designing and implementing end-to-end machine learning pipelines, including data gathering, feature engineering, model training, and evaluation. ⚙️🤖
