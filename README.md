@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am currently working on ML projects <br>👩🏻‍🎓 Data Science graduate student from Seattle University <br>![Handshake](https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif)I am looking to collaborate on LLM <br>
+💻 I am currently working on ML projects <br>👩🏻‍🎓 Data Science graduate student from Seattle University <br><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="5" height="5">I am looking to collaborate on LLM <br>
 
 
 ## 🌐 Socials:
